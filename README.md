@@ -16,6 +16,6 @@ This notebook contains all the code performing the human protein interactome for
 
 A comprehensive report that describes the methodologies, and discusses the results obtained from the study.
 
-## Notes
+### `datasets` folder
 
-The `file_downloder.sh` file downloads all the elements in a `datasets` folder, that is automatically made if not already present. The files are not shown here, due to upload size limits.
+This folder contains all the datasets used for this project.
