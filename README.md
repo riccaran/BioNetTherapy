@@ -1,4 +1,4 @@
-# Network science-based for identifying novel functional protein complexes in breast cancer
+# Network science-based approach for identifying novel functional protein complexes in breast cancer
 
 This project brings a network science-based method to identify novel functional protein complexes that can be used as therapeutic targets in breast cancer therapy.
 
