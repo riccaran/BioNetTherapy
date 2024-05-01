@@ -14,4 +14,10 @@ The use of network science methods has provided powerful frameworks for understa
 
 In order to achieve this objective, the study employed a varied approach. Initially, a scale-free network model of the human protein interactome was constructed using high-confidence inter action data from the Search Tool for the Retrieval of Interacting Genes/Proteins (STRING) database. This model was processed and analyzed to extract several information about the network and for determining the coefficients of the scale-free property. Then, gene expression data was introduced, selecting breast cancer-specific expressed genes, through the Human Protein At las (HPA). Subsequently, hubs-related breast cancer genes were selected and split into different communities within the network are identified and analyzed using modularity metrics, followed by a functional enrichment analysis based on the Gene Ontology (GO) dataset. Finally, the enriched proteins were compared to the Pharos database to identify under-researched protein com plexes that are also hubs and that are important in breast cancer metabolic processes. This output can be used for discovering new potentially useful research directions in important related by-function groups of proteins.
 
+## Materials
+
+This section provides a more in-depth presentation and characterization of the materials used in this study, in terms of datasets, code tools and libraries.
+
+### Datasets
+
 WIP...
