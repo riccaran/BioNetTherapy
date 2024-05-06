@@ -20,4 +20,23 @@ This section provides a more in-depth presentation and characterization of the 
 
 ### Datasets
 
+For building the human protein interactome network, the
+STRING database (version 12.0), a well-known resource for
+protein-protein interactions, was used. In particular, two distinct
+datasets were fetched from the STRING database:
+
+1. Physical subnetwork (interaction.txt.gz) file, which
+contains the interactome and the combined scores for the
+interaction accuracy (in this dataset the edges indicate that
+the proteins are part of a physical complex);
+
+2. Mapping File (mapping.txt.gz), used to associate STRING
+IDs with gene names.
+
+For fetching another mapping file (PTHR18.0_human), useful
+for mapping each gene ID to its respective UniProt ID, PANTHER db was used. PANTHER db is a comprehensive database
+that has been designed to classify proteins (and their respective
+genes) in order to facilitate high-throughput analysis.
+
+
 WIP...
