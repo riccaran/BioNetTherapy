@@ -37,6 +37,3 @@ For fetching another mapping file (PTHR18.0_human), useful
 for mapping each gene ID to its respective UniProt ID, PANTHER db was used. PANTHER db is a comprehensive database
 that has been designed to classify proteins (and their respective
 genes) in order to facilitate high-throughput analysis.
-
-
-WIP...
